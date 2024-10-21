@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://artsuselv.github.io/artsuselv.txt.gz
+Sitemap: https://artsuselv.github.io/app/artsuselv.txt.gz
+Sitemap: https://artsuselv.github.io/assets/artsuselv.txt.gz
+Sitemap: https://artsuselv.github.io/css/artsuselv.txt.gz
+Sitemap: https://artsuselv.github.io/includes/artsuselv.txt.gz
+Sitemap: https://artsuselv.github.io/item/artsuselv.txt.gz
+Sitemap: https://artsuselv.github.io/src/artsuselv.txt.gz
